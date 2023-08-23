@@ -1,3 +1,3 @@
 open Aoc
 
-let () = Day_4.solve
+let () = Day_5.solve
